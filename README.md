@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="<img width="2048" height="2048" alt="Vero_Logotipo" src="https://github.com/user-attachments/assets/8386e3f8-68ad-42fb-8fc8-76813d2e9216" />" alt="Vero Logo" width="200">
+</p>
+
+# Vero - Sistema de Gestão e Checkout
+
 Vero - Sistema de Gestão para Restaurantes 🍽️
 O Vero é um software de PDV (Ponto de Venda) e gerenciamento de comandas desenvolvido para otimizar o atendimento e o fechamento de contas em restaurantes, bares e lanchonetes. O foco do projeto é oferecer agilidade operacional com uma interface moderna e intuitiva.
 
