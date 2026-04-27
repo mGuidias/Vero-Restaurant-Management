@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="2048" height="2048" alt="Vero_Logotipo" src="https://github.com/user-attachments/assets/8386e3f8-68ad-42fb-8fc8-76813d2e9216" />" alt="Vero Logo" width="200">
+  <img src="Vero_Logotipo.png" alt="Vero Logo" width="200">
 </p>
 
 # Vero - Sistema de Gestão e Checkout
